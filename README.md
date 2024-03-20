@@ -13,7 +13,7 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 * It is recommended for typical desktop use that you ***uncheck*** the LVM-related partition options in the initial install.
 * You ***WILL*** need a SD Card with SD card reader ***OR*** USB Drive
 * Do ***NOT*** buy SD Cards or USB Drives online.
-* This only comes with the bare necessities. You'll need to provide any extra packages, such as xfce's screenshooter or power-management apps or a web browser, via apt or flatpak.
+* This only comes with the bare necessities. You'll need to provide any extra packages, such as xfce's screenshooter or power-management apps or a web browser, via apt and/or flatpak.
 * There IS an "Additional Drivers" app to install NVIDIA drivers.
 * Most WiFi drivers that are compatible with Ubuntu Jammy Jellyfish should work by default ***after*** install.
 * CURL is incompatible with most applications due to it being a shortcut to the better swirl project.
