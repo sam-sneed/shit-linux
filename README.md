@@ -31,9 +31,12 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 
 Sure! Here are some screenshots!
 
-<img src="login-prompt.webp" width="15%"></img><br></br>
-Description: User login prompt example<br></br>
-<img src="starting-x.webp" width="15%"></img><br></br>
-Description: A user starting X.Org<br></br>
-<img src="slightly-customized-desktop.webp" width="15%"></img><br></br>
-Description: A slightly customized desktop<br></br>
+<img src="login-prompt.webp" width="15%">
+
+Description: User login prompt example
+
+<img src="starting-x.webp" width="15%">
+Description: A user starting X.Org
+<img src="slightly-customized-desktop.webp" width="15%"></img>
+
+Description: A slightly customized desktop
