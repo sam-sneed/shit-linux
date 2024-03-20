@@ -30,9 +30,9 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 Sure! Here are some screenshots!
 
 ![User login prompt example](login-prompt.webp)
-<img src="login-prompt.webp" width="25%"></img>
+<img src="login-prompt.webp" width="15%"></img>
 Description: User login prompt example
-<img src="starting-x.webp" width="25%"></img>
+<img src="starting-x.webp" width="15%"></img>
 Description: A user starting X.Org
-<img src="slightly-customized-desktop.webp" width="25%"></img>
+<img src="slightly-customized-desktop.webp" width="15%"></img>
 Description: A slightly customized desktop
