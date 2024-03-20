@@ -27,8 +27,12 @@ Once that’s all done, it’s time to shake things up. Reboot into your BIOS �
 And just like that, you’re off to the races! Trust me, it’s way easier than it sounds. Time to sit back, relax, and watch your system transform before your very eyes. You got this!
 
 ### Screenshots?
-Sure! Here are some screenshots! (Pro tip: These have "alt" tags to describe what's going on)
+Sure! Here are some screenshots!
 
 ![User login prompt example](login-prompt.webp)
-![A user starting X.Org](starting-x.webp)
-![A slightly customized desktop](slightly-customized-desktop.webp)
+<img src="login-prompt.webp" width="25%"></img>
+Description: User login prompt example
+<img src="starting-x.webp" width="25%"></img>
+Description: A user starting X.Org
+<img src="slightly-customized-desktop.webp" width="25%"></img>
+Description: A slightly customized desktop
