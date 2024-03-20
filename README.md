@@ -33,10 +33,12 @@ Sure! Here are some screenshots!
 
 <img src="login-prompt.webp" width="15%">
 
-Description: User login prompt example
+* Description: User login prompt example
 
 <img src="starting-x.webp" width="15%">
-Description: A user starting X.Org
-<img src="slightly-customized-desktop.webp" width="15%"></img>
 
-Description: A slightly customized desktop
+* Description: A user starting X.Org
+
+<img src="slightly-customized-desktop.webp" width="15%">
+
+* Description: A slightly customized desktop
