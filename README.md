@@ -39,8 +39,8 @@ Sure! Here are some screenshots!
 
 <img src="starting-x.webp" width="15%">
 
-* Description: A user starting X.Org
+* Description: A user starting X.Org after running "install-desktop.sh"
 
 <img src="slightly-customized-desktop.webp" width="15%">
 
-* Description: A slightly customized desktop
+* Description: A slightly customized desktop using default-choice of desktop environment
