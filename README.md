@@ -23,7 +23,7 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 
 ### How to install? 
 
-(Thanks ChatGPT for making my poor instructions more clear and interesting to read!)
+(Thanks ChatGPT for making Mr. Lord's poor instructions more clear and interesting to read!)
 
 Alright, buckle up! First things first, grab yourself a spare USB Drive that you’re cool with reformatting – trust me, it’s for a good cause. Next up, snag a copy of ***Ventoy*** (***[Download here](https://sourceforge.net/projects/ventoy/files/v1.0.97/ventoy-1.0.97-windows.zip/download)*** if your ***current*** OS is Windows or ***[download here](https://sourceforge.net/projects/ventoy/files/v1.0.97/ventoy-1.0.97-windows.zip/download)*** if you are on GNU/Linux.) and fire up ***Ventoy2Disk.*** ***Now, pay attention here: make sure you disable that pesky secure boot support in Ventoy2Disk. Then, it’s time to work some magic – install Ventoy onto your USB and toss that ISO onto the VENTOY partition like a pro.***
 
