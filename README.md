@@ -15,7 +15,7 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 * Do ***NOT*** buy SD Cards or USB Drives online.
 * This only comes with the bare necessities. You'll need to provide any extra packages, such as power-management apps, via apt and/or flatpak.
 * Note that there is now a seperate install script (install-desktop.sh) for installing an XFCE4 desktop.
-* Also note that, no matter which desktop environment you choose, there is a librewolf.AppImage as well as some scripts needed to play and develop in ROBLOX (although you need a spare Android phone)
+* Also note that, no matter which desktop environment you choose, there is a librewolf.AppImage as well as some scripts needed to play and develop in ROBLOX (although you need a spare Android phone to use the player.)
 * There IS an "Additional Drivers" app to install NVIDIA drivers.
 * Most WiFi drivers that are compatible with Ubuntu Jammy Jellyfish should work by default ***after*** install.
 * CURL is incompatible with most applications due to it being a shortcut to the better swirl project.
