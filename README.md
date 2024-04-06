@@ -33,7 +33,7 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 
 ### How do I install with T2 Mac compatiblility?
 
-***NOTE: T2 compatibility is still in it's early stages!***
+***NOTE: T2 compatibility is still in it's early stages, and if it does work, you'll need to enable Wi-Fi via terminal to use internet, such as to enable XFCE4 Desktop!***
 
 1. Go to recovery mode (Command+R on boot)
 2. Disable signed/secure boot and enable booting from all sources
