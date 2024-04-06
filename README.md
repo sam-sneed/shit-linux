@@ -38,7 +38,7 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 1. Go to recovery mode (Command+R on boot)
 2. Disable signed/secure boot and enable booting from all sources
 3. Install onto your mac as per usual
-4. [Enable Wi-Fi using these instructions](https://linuxconfig.org/ubuntu-22-04-connect-to-wifi-from-command-line) (Be sure to use uBlock Origin on this site.)
+4. [Enable Wi-Fi using these instructions](https://github.com/sam-sneed/shit-linux/wiki/SHIT-Linux-CLI-Wifi-Guide)
 5. Enjoy your SHITty experience! ;)
 
 ( NOTE: We have since discovered that the T2 kernel is enabled by default on install! :D )
