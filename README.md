@@ -13,7 +13,9 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 * It is recommended for typical desktop use that you ***uncheck*** the LVM-related partition options in the initial install.
 * You ***WILL*** need a SD Card with SD card reader ***OR*** USB Drive
 * Do ***NOT*** buy SD Cards or USB Drives online.
-* This only comes with the bare necessities. You'll need to provide any extra packages, such as xfce's screenshooter or power-management apps or a web browser, via apt and/or flatpak.
+* This only comes with the bare necessities. You'll need to provide any extra packages, such as power-management apps, via apt and/or flatpak.
+* Note that there is now a seperate install script (install-desktop.sh) for installing an XFCE4 desktop.
+* Also note that, no matter which desktop environment you choose, there is a librewolf.AppImage as well as some scripts needed to play and develop in ROBLOX (although you need a spare Android phone)
 * There IS an "Additional Drivers" app to install NVIDIA drivers.
 * Most WiFi drivers that are compatible with Ubuntu Jammy Jellyfish should work by default ***after*** install.
 * CURL is incompatible with most applications due to it being a shortcut to the better swirl project.
@@ -44,3 +46,9 @@ Sure! Here are some screenshots!
 <img src="slightly-customized-desktop.webp" width="15%">
 
 * Description: A slightly customized desktop using default-choice of desktop environment
+
+### Maintainers
+
+* Sam Sneed - Website Maintainer: Responsible for maintaining and updating the website.
+* Sparksammy - Ex-Distro-Dev/Current Download Maintainer: Previously a Distro Developer, now overseeing current download maintenance.
+* Maxwell Drake - Current Distro Developer: Actively involved in the development and maintenance of the distribution.
