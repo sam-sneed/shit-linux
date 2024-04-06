@@ -21,7 +21,7 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 * CURL is incompatible with most applications due to it being a shortcut to the better swirl project.
   * Swirl's source can be found here: http://nodemixaholic.com:3002/nodemixaholic/swirl
 
-### How to install? 
+### How to install on a PC? 
 
 (Thanks ChatGPT for making Mr. Lord's poor instructions more clear and interesting to read!)
 
@@ -31,16 +31,17 @@ Once that’s all done, it’s time to shake things up. Reboot into your BIOS �
 
 And just like that, you’re off to the races! Trust me, it’s way easier than it sounds. Time to sit back, relax, and watch your system transform before your very eyes. You got this!
 
-### How do I install with T2 Mac compatiblility?
+### How do I install on a Mac with T2 chip?
 
 ***NOTE: T2 compatibility is still in it's early stages, and if it does work, you'll need to enable Wi-Fi via terminal to use internet, such as to enable XFCE4 Desktop!***
 
 1. Go to recovery mode (Command+R on boot)
 2. Disable signed/secure boot and enable booting from all sources
 3. Install onto your mac as per usual
-4. Once you're in, type this command: ```sudo apt reinstall linux-t2```
-5. Reboot into the new kernel marked "T2"
-6. Enjoy your SHITty experience!
+4. [Enable Wi-Fi using these instructions](https://linuxconfig.org/ubuntu-22-04-connect-to-wifi-from-command-line) (Be sure to use uBlock Origin)
+5. Enjoy your SHITty experience! ;)
+
+( NOTE: We have since discovered that the T2 kernel is enabled by default on install! :D )
 
 ### Screenshots?
 
