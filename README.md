@@ -37,9 +37,8 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 
 1. Go to recovery mode (Command+R on boot)
 2. Disable signed/secure boot and enable booting from all sources
-3. Install onto your mac as per usual (you'll need a usb keyboard in installer!)
-4. [Enable Wi-Fi using these instructions](https://github.com/sam-sneed/shit-linux/wiki/SHIT-Linux-CLI-Wifi-Guide)
-5. Enjoy your SHITty experience! ;)
+3. Install onto your mac as per usual (you may need a usb keyboard and mouse in installer!)
+4. Enjoy your SHITty experience! ;)
 
 ( NOTE: We have since discovered that the T2 kernel is enabled by default on install! :D )
 
@@ -47,17 +46,9 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 
 Sure! Here are some screenshots!
 
-<img src="login-prompt.webp" width="15%">
+<img src="desktopV2.png" width="15%">
 
-* Description: User login prompt example
-
-<img src="starting-x.webp" width="15%">
-
-* Description: A user starting X.Org after running "install-desktop.sh"
-
-<img src="slightly-customized-desktop.webp" width="15%">
-
-* Description: A slightly customized desktop using default-choice of desktop environment
+* Description: A desktop using default-choice of desktop environment
 
 ### Maintainers
 
