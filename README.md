@@ -6,7 +6,7 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 
 ### Download link pls?
 
-[Here, enjoy! :D](https://sparksammy.com/shit-linux.iso)
+[Here, enjoy! :D](https://1drv.ms/u/s!Ak8-fBycIqCGqMppoV3zWxPBiMZJ1g?e=AYsuoc)
 
 ### IMPORTANT NOTES
 
