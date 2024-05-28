@@ -21,7 +21,7 @@ It is a distro that: comes with OpenBox, ***does*** come with a browser, comes w
 
 Alright, buckle up! First things first, grab yourself a spare USB Drive that you’re cool with reformatting – trust me, it’s for a good cause. Next up, snag a copy of ***Ventoy*** (***[Download here](https://sourceforge.net/projects/ventoy/files/v1.0.97/ventoy-1.0.97-windows.zip/download)*** if your ***current*** OS is Windows or ***[download here](https://sourceforge.net/projects/ventoy/files/v1.0.97/ventoy-1.0.97-windows.zip/download)*** if you are on GNU/Linux.) and fire up ***Ventoy2Disk.*** ***Now, pay attention here: make sure you disable that pesky secure boot support in Ventoy2Disk. Then, it’s time to work some magic – install Ventoy onto your USB and toss that ISO onto the VENTOY partition like a pro.***
 
-Once that’s all done, it’s time to shake things up. Reboot into your BIOS – yeah, we’re diving deep now. ***Kick secure boot to the curb (I mean, who needs those Microsoft certs anyway, right?) and boot up from your USB. Choose that ISO you’ve been itching to install, but hold up – don’t forget to give LVM the ol’ goodbye.***
+Once that’s all done, it’s time to shake things up. Reboot into your BIOS – yeah, we’re diving deep now. ***Kick secure boot to the curb (I mean, who needs those Microsoft certs anyway, right?) and boot up from your USB. Choose that ISO you’ve been itching to install.***
 
 And just like that, you’re off to the races! Trust me, it’s way easier than it sounds. Time to sit back, relax, and watch your system transform before your very eyes. You got this!
 
