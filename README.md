@@ -13,13 +13,7 @@ It is a distro that removes the bloat from Ubuntu, replaces curl and wget with m
 * It is recommended for typical desktop use that you ***uncheck*** the LVM-related partition options in the initial install.
 * You ***WILL*** need a SD Card with SD card reader ***OR*** USB Drive
 * Do ***NOT*** buy SD Cards or USB Drives online.
-* This only comes with the bare necessities. You'll need to provide any extra packages, such as power-management apps, via apt and/or flatpak.
-* Note that there is now a seperate install script (install-desktop.sh) for installing an XFCE4 desktop.
-* Also note that, no matter which desktop environment you choose, there is a librewolf.AppImage as well as some scripts needed to play and develop in ROBLOX (although you need a spare Android phone to use the player.)
-* There IS an "Additional Drivers" app to install NVIDIA drivers.
-* Most WiFi drivers that are compatible with Ubuntu Jammy Jellyfish should work by default ***after*** install.
-* CURL is incompatible with most applications due to it being a shortcut to the better swirl project.
-  * Swirl's source can be found here: http://nodemixaholic.com:3002/nodemixaholic/swirl
+* Most WiFi drivers that are compatible with Debian Sid should work by default.
 
 ### How to install on a PC? 
 
@@ -31,20 +25,9 @@ Once that’s all done, it’s time to shake things up. Reboot into your BIOS �
 
 And just like that, you’re off to the races! Trust me, it’s way easier than it sounds. Time to sit back, relax, and watch your system transform before your very eyes. You got this!
 
-### How do I install on a Mac with T2 chip?
-
-***NOTE: T2 compatibility is still in it's early stages, and if it does work, you'll need to enable Wi-Fi via terminal to use internet, such as to enable XFCE4 Desktop!***
-
-1. Go to recovery mode (Command+R on boot)
-2. Disable signed/secure boot and enable booting from all sources
-3. Install onto your mac as per usual (you may need a usb keyboard and mouse in installer!)
-4. Enjoy your SHITty experience! ;)
-
-( NOTE: We have since discovered that the T2 kernel is enabled by default on install! :D )
-
 ### Screenshots?
 
-Sure! Here are some screenshots!
+Sure! Here are some screenshots! (Outdated.)
 
 <img src="desktopV2.png" width="15%">
 
