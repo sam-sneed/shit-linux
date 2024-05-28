@@ -2,7 +2,7 @@
 ## Sam's Heckin Intermitent Tiny Linux
 ### What is?
 
-It is a distro that removes the bloat from Ubuntu, replaces curl and wget with my swirl project, comes with xfce4, ***does*** come with a browser, comes with an "add-flathub.sh" script, a "scrcpy.AppImage" binary, an "install-roblox-studio.sh" script, and replaces some of the bloated GNU coreutils with BusyBox utils. Also comes with flatpak.
+It is a distro that: comes with OpenBox, ***does*** come with a browser, comes with a "scrcpy.AppImage" binary, roblox-scrcpy script, and comes with some games, launchers, apps, and ROBLOX Studio. Also comes with flatpak.
 
 ### Download link pls?
 
