@@ -27,7 +27,7 @@ And just like that, you’re off to the races! Trust me, it’s way easier than 
 
 ### Screenshots?
 
-Sure! Here are some screenshots! (Outdated.)
+Sure! Here are some screenshots!
 
 <img src="desktopV2.png" width="15%">
 
